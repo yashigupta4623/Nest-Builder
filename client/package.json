@@ -1,5 +1,6 @@
 {
   "name": "client",
+  "type": "module",
   "version": "0.1.0",
   "private": true,
   "proxy": "http://localhost:5000",
@@ -22,6 +23,7 @@
     "@types/react-dom": "^18.2.24",
     "child_process": "^1.0.2",
     "date-fns": "^3.6.0",
+    "dotenv": "^16.4.7",
     "fetch": "^1.1.0",
     "firebase": "^10.14.1",
     "google-auth-library": "^9.8.0",

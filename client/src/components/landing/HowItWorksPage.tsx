@@ -70,7 +70,7 @@ const HowItWorksPage = () => {
       </Grid>
       <Grid item xs={12} md={6} textAlign={"center"}>
         <YouTube
-          videoId={`Qyf--S0LUlk`}
+          videoId={`S0LUlk`}
           title={"Nested Demo Video"}
           opts={opts}
         />

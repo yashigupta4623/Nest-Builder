@@ -9,7 +9,7 @@ import InstagramIcon from "@mui/icons-material/Instagram";
 import TwitterIcon from "@mui/icons-material/Twitter";
 import { TeamMember } from "../../models/TeamMemberModel";
 import p1Image from "../../assets/p1.png";
-import p2Image from "../../assets/Shaan_Ahuja_Image.png";
+import p2Image from "../../assets/p2.png";
 
 const coreTeam: TeamMember[] = [
   {
